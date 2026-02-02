@@ -1,6 +1,6 @@
 # 🤖 Two-Wheel Robot Platform
 
-![Two-Wheel Robot](images/two_wheel_robot.png)
+<img width="889" height="617" alt="Image" src="https://github.com/user-attachments/assets/53525585-0a11-47f1-9889-5cbb2b96132c" />
 
 A compact **two-wheel differential drive robot** designed for learning, prototyping, and experimentation in robotics, electronics, and embedded systems.
 
