@@ -1,6 +1,6 @@
-# 🤖 Two-Wheel Robot Platform
+# 🤖 Two-Wheel Robot
 
-<img width="889" height="617" alt="Image" src="https://github.com/user-attachments/assets/53525585-0a11-47f1-9889-5cbb2b96132c" />
+![Two-Wheel Robot](images/two_wheel_robot.png)
 
 A compact **two-wheel differential drive robot** designed for learning, prototyping, and experimentation in robotics, electronics, and embedded systems.
 
@@ -9,7 +9,7 @@ A compact **two-wheel differential drive robot** designed for learning, prototyp
 ## 📌 Overview
 
 This project is a **two-wheel robot chassis** powered by DC gear motors and mounted on a rigid base plate.  
-It is suitable for line following, obstacle avoidance, autonomous navigation, and ROS-based projects.
+It is suitable for line following, obstacle avoidance, autonomous navigation, and general robotics experiments.
 
 ---
 
@@ -56,10 +56,9 @@ It is suitable for line following, obstacle avoidance, autonomous navigation, an
 ## 🚀 Applications
 
 - Educational robotics projects
-- Autonomous robot experiments
 - Line follower robot
 - Obstacle avoidance robot
-- ROS learning platform
+- Autonomous navigation experiments
 
 ---
 
@@ -72,5 +71,14 @@ It is suitable for line following, obstacle avoidance, autonomous navigation, an
 
 ---
 
-## 📂 Repository Structure
+## 📜 License
 
+This project is open-source and available under the **MIT License**.  
+Feel free to use, modify, and share.
+
+---
+
+## ✨ Author
+
+Designed and developed for educational and prototyping purposes.  
+If you like the project, ⭐ star the repository!
