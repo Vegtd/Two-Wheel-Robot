@@ -35,8 +35,7 @@ It is suitable for line following, obstacle avoidance, autonomous navigation, an
 - **Wheels**  
   Rubber tires for better traction and smooth movement.
 
-- **Motor Brackets**  
-  Secure the motors firmly to the chassis.
+- 
 
 ---
 
